@@ -49,10 +49,6 @@ The reasoning and operations referenced in the `step` fields come from a defined
 - Reasoning with Quantifiers
 - Other Commonsense Reasoning
 
-### Status 🚧
-
-The code and data for this project are currently being prepared and reviewed. We aim to release them as soon as the process is completed. Stay tuned for updates!
-
 ### Contact 📧
 
 For inquiries or updates about this repository, please contact [zhehao.zhang.gr@dartmouth.edu]. 📬
