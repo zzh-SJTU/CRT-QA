@@ -1,6 +1,6 @@
 # CRT-QA: A Dataset of Complex Reasoning Question Answering over Tabular Data (EMNLP2023) 📊
 
-This repository contains the CRT-QA dataset, which includes question-answer pairs that require complex reasoning over tabular data. 🚀
+This repository contains the CRT-QA dataset, which includes question-answer pairs that require complex reasoning over tabular data. This dataset is released under the MIT License. 🚀
 
 ## About the Dataset and Paper
 
